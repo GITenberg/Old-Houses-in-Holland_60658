@@ -1,10 +1,13 @@
 _repo: Old-Houses-in-Holland_60658
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator: &id001
     agent_name: Jones, Sydney R.
     gutenberg_agent_id: '51076'
     url: http://www.gutenberg.org/2009/agents/51076
+covers:
+- cover_type: archival
+  image_path: 60658-h/images/frontcover.jpg
 creator:
   author: *id001
   editor:
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41084
     wikipedia: https://en.wikipedia.org/wiki/Charles_Holme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60658#Old-Houses-in-Holland
 gutenberg_issued: '2019-11-09'
 gutenberg_type: Text
 identifiers:
